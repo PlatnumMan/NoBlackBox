@@ -36,3 +36,20 @@ button:disabled:hover {
   color: #666;
   cursor: not-allowed;
 }
+
+.inputDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+.inputDiv input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+}
