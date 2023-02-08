@@ -1,6 +1,6 @@
 # NoBlackBox
 
-#JavaScript-based Machine Learning Project
+# JavaScript-based Machine Learning Project
 
 This project aims to develop a machine learning model using JavaScript that can recognize drawings made by students. The model will be trained using a dataset of drawings and will learn to categorize each drawing into a set of predefined classes.
 
@@ -8,7 +8,7 @@ This project aims to develop a machine learning model using JavaScript that can 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-#Prerequisites
+# Prerequisites
 
 Node.js and npm installed on your machine
 A basic understanding of machine learning and JavaScript
@@ -29,7 +29,7 @@ To run the project, simply start a local development server using the following 
 npm start
 This will start a local development server and you can access the application in your web browser at http://localhost:3000.
 
-#Contributing
+# Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 Fork the Project
@@ -38,6 +38,6 @@ Commit your Changes (git commit -m 'Add some AmazingFeature')
 Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
-#License
+# License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
