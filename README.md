@@ -4,7 +4,7 @@
 
 This project aims to develop a machine learning model using JavaScript that can recognize drawings made by students. The model will be trained using a dataset of drawings and will learn to categorize each drawing into a set of predefined classes.
 
-#Getting Started
+# Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
