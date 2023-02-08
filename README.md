@@ -32,7 +32,6 @@ npm install`
 
 To run the project, simply start a local development server using the following command:
 
-sqlCopy code
 
 `npm start`
 
