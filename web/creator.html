@@ -21,7 +21,7 @@
         style="visibility: hidden;"
         ></div>
     </div>
-    <script src="js/draw.js"></script>
+    <script src="../common/draw.js"></script>
     <script src="js/sketchpad.js"></script>
 
     <script>
@@ -78,7 +78,7 @@
             const element = document.createElement('a');
             element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(JSON.stringify(data)));
 
-            const fileName = `${data.student}_${data.session}.json`;
+            const fileName = `${data.session}.json`;
             element.setAttribute('download', fileName);
 
             element.style.display = 'none';
