@@ -51,4 +51,4 @@ Contributions are what make the open-source community such an amazing place to l
 License
 -------
 
-This project is licensed under the MIT License - see the [LICENSE]([GitHub Enterprise | Information Systems & Technology (mit.edu)](https://ist.mit.edu/github-enterprise)) file for details.
+This project is licensed under the MIT License And Owned By Fiston - see the ([GitHub Enterprise | Information Systems & Technology (mit.edu)](https://ist.mit.edu/github-enterprise)) file for details.
